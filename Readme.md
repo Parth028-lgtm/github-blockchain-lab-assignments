@@ -1,8 +1,8 @@
 # Assignment 1: Smart Contract Development
 
 ##  Student Details
-Name: YOUR NAME  
-Roll No: YOUR ROLL NO  
+Name: Parth Ranaware
+Roll No: 123B1B057  
 Course: Blockchain Technology Lab  
 
 ---
