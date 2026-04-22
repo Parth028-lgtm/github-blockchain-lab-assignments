@@ -1,8 +1,8 @@
 # Blockchain Lab Assignments
 
 ##  Student Details
-Name: YOUR NAME  
-Roll No: YOUR ROLL NO  
+Name: YParth Ranaware
+Roll No: 123B1B057 
 
 ##  Assignments
 
